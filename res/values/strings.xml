@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+ 
+    <string name="app_name">Soduku</string>
+     <string name="main_title">Mårtens Soduku</string>
+      <string name="continue_label">Fortsätt</string>
+       <string name="new_game_label">Nytt spel</string>
+        <string name="about_label">Om</string>
+         <string name="exit_label">Avsluta</string>
+         <string name="about_title">Om Mårtens Sudoku</string>
+         <string name="about_text">\
+             Sudoku är ett kul logik-baserat
+             spel. Njut så bra ni bara kan av det :). 
+             Det består ofta av 3*3 rutor (även kallade <i>block</i>).
+             
+             Ha så skoj!  </string>
+             
+             <string name="settings_label">Inställningar</string>
+<string name="settings_title">Inställningar</string>
+<string name="settings_shortcut">s</string>
+<string name="music_title">Musik</string>
+<string name="music_summary">Spela bakgrundsmusik</string>
+<string name="hints_title">Förslag</string>
+<string name="hints_summary">Visa förslag under spelet</string>
+<string name="new_game_title">Svårighetsgrad</string>
+       <string name="easy_label">Lätt</string>
+<string name="medium_label">Medel</string>
+<string name="hard_label">Svår</string>
+		
+</resources>
