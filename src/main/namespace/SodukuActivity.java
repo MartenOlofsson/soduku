@@ -62,6 +62,8 @@ public class SodukuActivity extends Activity implements OnClickListener{
 private void openNewGameDialog() {
 		new AlertDialog.Builder(this)
 		.setTitle(R.string.new_game_title)
+		
+		
 		.setItems(R.array.difficulty,
 		new DialogInterface.OnClickListener() {
 		public void onClick(DialogInterface dialoginterface,
